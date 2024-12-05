@@ -1,0 +1,2 @@
+# SimpleStateMachineFramework
+Unity向けのシンプルなステートマシンフレームワーク
