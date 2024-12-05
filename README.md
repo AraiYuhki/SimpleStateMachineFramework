@@ -1,2 +1,5 @@
 # SimpleStateMachineFramework
 Unity向けのシンプルなステートマシンフレームワーク
+
+upmからパッケージをインポートする場合は以下のURLを登録する。
+https://github.com/AraiYuhki/SimpleStateMachineFramework.git?path=Packages/SimpleStateMachineFramework
