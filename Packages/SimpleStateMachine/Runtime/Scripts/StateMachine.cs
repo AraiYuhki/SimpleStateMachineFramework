@@ -26,7 +26,7 @@ namespace Xeon.StateMachine
 
         public void Initialize(TEnum firstState, object param = null)
         {
-            currentState = firstState;
+            nextState = currentState = firstState;
             State.OnEnter(param);
         }
 
